@@ -8,3 +8,7 @@
 - Updated LICENSE to proper MIT license.
 - Improved CHANGELOG formatting.
 - Minor documentation updates.
+
+## 1.0.2
+
+- Bug Fix

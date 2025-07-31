@@ -1,6 +1,6 @@
 name: valentino
 description: "A customizable Flutter tooltip widget that allows developers to display styled and flexible tooltips in their apps."
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/BerkeAytas/valentino
 repository: https://github.com/BerkeAytas/valentino
 
